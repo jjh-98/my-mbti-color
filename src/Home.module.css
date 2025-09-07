@@ -1,0 +1,92 @@
+.container {
+  margin: 40px auto;
+  max-width: 765px;
+  width: 100%;
+  gap: 40px;
+}
+
+.header {
+  border-radius: 40px;
+  background-color: #f5f7fb;
+  color: #464e5e;
+  text-align: center;
+}
+
+.heading {
+  margin: 0 0 32px;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+}
+
+.accent {
+  font-weight: 800;
+}
+
+.filter {
+  display: inline-flex;
+  align-items: center;
+  gap: 24px;
+  padding: 8px 24px;
+  font-weight: 500;
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.07);
+  cursor: pointer;
+}
+
+.filter > .removeIcon {
+  display: block;
+  width: 12px;
+  height: 12px;
+}
+
+.content {
+  flex-grow: 1;
+}
+
+.addItem {
+  display: block;
+  text-decoration: none;
+  padding: 24px 48px;
+  color: #464e5e;
+  border: 2px dashed #dee3ec;
+  border-radius: 8px;
+  margin-top: 40px;
+}
+
+.addItem:hover {
+  background-color: #f5f7fb;
+}
+
+.items {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* ... */
+@media screen and (max-width: 944px) {
+  .colorSurvey {
+    padding: 18px 16px;
+  }
+
+  .id {
+    width: 37px;
+    margin-right: 16px;
+  }
+
+  .mbti {
+    width: 54px;
+    margin-right: 16px;
+  }
+
+  .colorChip {
+    margin-right: 8px;
+    margin-left: 16px;
+  }
+
+  .colorCode {
+    width: 72px;
+  }
+}
