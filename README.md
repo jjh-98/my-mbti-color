@@ -2,12 +2,12 @@
 
 #기술 스택: html + css + js + react + vite
 
-#주요 기능: 
+#주요 기능: <br> 
 <img width="725" height="759" alt="image" src="https://github.com/user-attachments/assets/445176fe-a591-4d57-bdc9-9a448366751a" />
 <img width="721" height="783" alt="image" src="https://github.com/user-attachments/assets/78aed13b-890a-42a9-88e0-d58122ef136c" />
 <img width="719" height="784" alt="image" src="https://github.com/user-attachments/assets/b725d525-eb4e-467f-9fac-dd745c769a2c" />
+<img width="722" height="347" alt="image" src="https://github.com/user-attachments/assets/c8e34f01-f2d6-4ebc-b258-5177e6f03712" /><br>
 제 mbti를 선택하고 좋아하는 blue 색을 등록 한 이미지 입니다.
-<img width="722" height="347" alt="image" src="https://github.com/user-attachments/assets/c8e34f01-f2d6-4ebc-b258-5177e6f03712" />
 
 #설치 및 실행 방법: git clone 후 터미널에서 npm run dev 써주시면 됩니다.
 
